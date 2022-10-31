@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/layout_activity_common_web.xml.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/layout/activity_common_web.xml"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_logo.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-xhdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

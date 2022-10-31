@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/8d02e379e20e3d5c45830e79f97a3ea5/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/212790914cf36fcc7d0de3b6a4d6a9ec/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e11ba58e5dc8c4cd5982b96d421fae67/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e4765c066f5f7ad55cd6fdfe71873767/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/21c8b1808581eb00a9d9e604c98195e5/butterknife-10.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c4c9dcff30bd24ff75cb4a9136ca82f1/timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/71dfdc8778c4c4d0ec3d4e4a4db57e42/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/88b3f7de40bdb00184c96d259c2ce240/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/d197ba4dde4fdbefce82a055a3ad395e/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0d1d8d0288eb2489e88793639c27f97f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0ba253e7c4ff6345db2fd19941bd1cfb/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/bd839e4409fdc73eb11500bb6abba1fd/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/02df51ec2503c6c142e07bf215f12540/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/59548ff2976703e57236df7e47cb14af/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/ea930f7b57528d74fb44aab48bf6b504/butterknife-runtime-10.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0594e3d1642e234a37e24f68a1ef280e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3ded1a78659d35ebe1b63d0031548a4b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/fae4a32bac4a5898fc127fceb8b40f2c/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c732564ce2cd25d9b4b852c7ec4ff43f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/a64774bf1ccaad151af6580ad157e552/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3171c5bbb2ccc19470d7c398d41ae1de/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/2a2abeba04c77eb7580326d77a02cd94/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c24949a4d0d17ce79ca10f533d267c96/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/1a31885d481fab78d2f8bb77c367dc20/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/f3f6cfb721b18abda8f83a34f184d7bf/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/5cf8634b13a4f2dfaada7e8f36fd29de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/df937449ccf2eee05b64058f408facfc/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/46c85ba6b01157e32d44fbd61dd3fc00/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/aa4f2bec0563be32a9526f12c36b5a7c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c753ea3a8ffa532c6d4cc4e4f5ae7ba3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/52f5ef80301e676c1ef436b3fc66d2d9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/b485d7dcb73f50fda850fbfec292a113/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/212790914cf36fcc7d0de3b6a4d6a9ec/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/212790914cf36fcc7d0de3b6a4d6a9ec/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e11ba58e5dc8c4cd5982b96d421fae67/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e11ba58e5dc8c4cd5982b96d421fae67/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c4c9dcff30bd24ff75cb4a9136ca82f1/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c4c9dcff30bd24ff75cb4a9136ca82f1/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3171c5bbb2ccc19470d7c398d41ae1de/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3171c5bbb2ccc19470d7c398d41ae1de/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/1a31885d481fab78d2f8bb77c367dc20/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/1a31885d481fab78d2f8bb77c367dc20/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3171c5bbb2ccc19470d7c398d41ae1de/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:12:9-44
+	android:icon
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:9:9-39
+	android:allowBackup
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:14:9-52
+	android:usesCleartextTraffic
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:10:9-44
+activity#com.daomingedu.talentgameexam.CommonWebActivity
+ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:hardwareAccelerated
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:17:13-47
+	android:configChanges
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:16:13-74
+	android:name
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:15:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/8d02e379e20e3d5c45830e79f97a3ea5/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/8d02e379e20e3d5c45830e79f97a3ea5/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/212790914cf36fcc7d0de3b6a4d6a9ec/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/212790914cf36fcc7d0de3b6a4d6a9ec/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e11ba58e5dc8c4cd5982b96d421fae67/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e11ba58e5dc8c4cd5982b96d421fae67/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e4765c066f5f7ad55cd6fdfe71873767/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/e4765c066f5f7ad55cd6fdfe71873767/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/21c8b1808581eb00a9d9e604c98195e5/butterknife-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/21c8b1808581eb00a9d9e604c98195e5/butterknife-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c4c9dcff30bd24ff75cb4a9136ca82f1/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c4c9dcff30bd24ff75cb4a9136ca82f1/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/71dfdc8778c4c4d0ec3d4e4a4db57e42/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/71dfdc8778c4c4d0ec3d4e4a4db57e42/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/88b3f7de40bdb00184c96d259c2ce240/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/88b3f7de40bdb00184c96d259c2ce240/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/d197ba4dde4fdbefce82a055a3ad395e/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/d197ba4dde4fdbefce82a055a3ad395e/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0d1d8d0288eb2489e88793639c27f97f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0d1d8d0288eb2489e88793639c27f97f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0ba253e7c4ff6345db2fd19941bd1cfb/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0ba253e7c4ff6345db2fd19941bd1cfb/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/bd839e4409fdc73eb11500bb6abba1fd/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/bd839e4409fdc73eb11500bb6abba1fd/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/02df51ec2503c6c142e07bf215f12540/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/02df51ec2503c6c142e07bf215f12540/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/59548ff2976703e57236df7e47cb14af/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/59548ff2976703e57236df7e47cb14af/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/ea930f7b57528d74fb44aab48bf6b504/butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/ea930f7b57528d74fb44aab48bf6b504/butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0594e3d1642e234a37e24f68a1ef280e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/0594e3d1642e234a37e24f68a1ef280e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3ded1a78659d35ebe1b63d0031548a4b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3ded1a78659d35ebe1b63d0031548a4b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/fae4a32bac4a5898fc127fceb8b40f2c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/fae4a32bac4a5898fc127fceb8b40f2c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c732564ce2cd25d9b4b852c7ec4ff43f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c732564ce2cd25d9b4b852c7ec4ff43f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/a64774bf1ccaad151af6580ad157e552/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/a64774bf1ccaad151af6580ad157e552/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3171c5bbb2ccc19470d7c398d41ae1de/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/3171c5bbb2ccc19470d7c398d41ae1de/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/2a2abeba04c77eb7580326d77a02cd94/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/2a2abeba04c77eb7580326d77a02cd94/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c24949a4d0d17ce79ca10f533d267c96/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c24949a4d0d17ce79ca10f533d267c96/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/1a31885d481fab78d2f8bb77c367dc20/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/1a31885d481fab78d2f8bb77c367dc20/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/f3f6cfb721b18abda8f83a34f184d7bf/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/f3f6cfb721b18abda8f83a34f184d7bf/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/5cf8634b13a4f2dfaada7e8f36fd29de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/5cf8634b13a4f2dfaada7e8f36fd29de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/df937449ccf2eee05b64058f408facfc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/df937449ccf2eee05b64058f408facfc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/46c85ba6b01157e32d44fbd61dd3fc00/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/46c85ba6b01157e32d44fbd61dd3fc00/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/aa4f2bec0563be32a9526f12c36b5a7c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/aa4f2bec0563be32a9526f12c36b5a7c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c753ea3a8ffa532c6d4cc4e4f5ae7ba3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/c753ea3a8ffa532c6d4cc4e4f5ae7ba3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/52f5ef80301e676c1ef436b3fc66d2d9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/52f5ef80301e676c1ef436b3fc66d2d9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/b485d7dcb73f50fda850fbfec292a113/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jianhongxu/.gradle/caches/transforms-2/files-2.1/b485d7dcb73f50fda850fbfec292a113/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhongxu/AndroidStudioProjects/TalentgameExam/app/src/main/AndroidManifest.xml
